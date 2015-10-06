@@ -31,9 +31,6 @@
 # ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 # POSSIBILITY OF SUCH DAMAGE.
   
-import distribute_setup
-distribute_setup.use_setuptools()
-
 from setuptools import setup;
 
 setup(
